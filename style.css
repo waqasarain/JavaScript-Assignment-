@@ -1,0 +1,122 @@
+/*question 6 38-42*/
+.vovle{
+		text-align: center;
+	}
+	#input-1{
+		height:30px;
+		border:none;
+		outline: none;
+		font-family: sans-serif;
+		font-size: 18px;
+		background-color: lightgrey;
+		margin:10px;
+		color: white;
+		padding-left:10px;
+		padding-left:10px;
+		line-height: 30px;
+		
+	}
+	#output{
+		height:30px;
+		width: 230px;
+		margin-left: 390px;
+		background-color: grey;
+		color: white;
+		font-family: sans-serif;
+		font-size: 18px;
+		font-weight: bolder;	
+		line-height: 30px;
+
+	}
+	#result{
+		width: 220px;
+	}
+
+/*question no 3 43 - 48*/
+
+#table td:last-child{background-color: Red;color:#FFF;cursor: pointer;
+                          font-weight: bold;}
+        }
+/*question 5*/
+
+
+/*body{
+ 		align-items: center;
+ 	}
+ 	h1{
+ 		text-transform: uppercase;
+ 		text-align: center;
+ 		color: #007bff;
+ 		font-family: serif;
+ 	}
+ 	.phone1{
+ 		width: 200px;
+ 		height: 200px;
+ 	}
+ 	.phone2{
+ 		width: 80px;
+ 		height: 200px;
+ 		margin-left: 20px;
+ 	}
+ 	p{
+ 		margin-left: 25px;
+ 		font-size: 18px;
+ 		font-family: sans-serif;
+ 		font-weight: bold; 
+ 		margin-top: 20px;
+ 	}
+ 	.col-sm-3{
+ 		margin-top: 20px;
+ 		padding: 20px;
+ 		outline: 2px solid black;
+ 	}
+
+
+ 	#clicks{
+		font-family: sans-serif;
+		font-weight: bold;
+		font-family: 24px;
+		text-align: center;
+	}
+	.text{
+		font-family: sans-serif;
+		font-weight: bold;
+		font-size: 24px;
+		text-align: center;	
+	}
+	.button{ 
+		font-family: sans-serif;
+		font-weight: bold;
+		font-size: 24px;
+	}
+*/
+
+  /*question 2  Event 49-52*/
+
+
+.img{
+    width:60%;
+    height: auto;
+    margin-left: 190px;
+   }
+   #pera{
+    font-family:sans-serif;
+    font-size: 18px;
+   }
+
+ .images{
+        width: 200px;
+        height:200px;
+    }
+    .bigimg{
+        width: 460px;
+        height: 280px;
+
+    }
+    .mainContainer{
+        text-align: center !important;
+    }
+
+    .modal-content{
+    	width: 500px !important;
+    }
